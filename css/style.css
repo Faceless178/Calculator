@@ -38,6 +38,7 @@ body {
     justify-items: end;
     align-items: end;
     margin-bottom: 10px;
+    overflow: hidden;
 }
 
 .screen p {
